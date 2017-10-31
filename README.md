@@ -1,14 +1,8 @@
 # Webpack ES6
 
-[![tests][tests]][tests-url]
-[![coverage][cover]][cover-url]
-
-A minimalistic Webpack 2 ES6 boilerplate project.
+An ES6 project started from a minimalistic Webpack 2 ES6 boilerplate project.
 
 ## Prerequisites
-
-[![node][node]][node-url]
-[![npm][npm]][npm-url]
 
 - [Node.js](http://es6-features.org)
 
