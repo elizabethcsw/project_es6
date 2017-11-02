@@ -1,6 +1,6 @@
 # Webpack ES6
 
-An ES6 project started from a minimalistic Webpack 2 ES6 boilerplate project.
+An ES6 project started from a minimalistic Webpack 2 ES6 boilerplate.
 
 ## Prerequisites
 
